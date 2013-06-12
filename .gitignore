@@ -1,0 +1,6 @@
+# IntelliJ stuff
+.idea
+*.iml
+
+# Cmd stuff
+build
